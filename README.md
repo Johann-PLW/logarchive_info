@@ -1,6 +1,6 @@
 # logarchive_info
 
-Python script to create the `Info.plist` file in an Apple Unified Logs `.logarchive` package.
+Python script to create the `Info.plist` file in an Apple Unified Logs `.logarchive` package.<br >
 More info: https://digital-forensics.polewczyk.fr/apple/unified-logs/info-plist/
 
 ## Requirements
